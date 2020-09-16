@@ -1,7 +1,6 @@
 # Scraper for HKU SAAS Job board
 
-This project aims to analysis the job posts on HKU SAAS job board in order to understand the recuitement behaviour of companies.  
-In other words, to help me find a nice job ;D
+This project aims to analysis the job posts on HKU SAAS job board in order to understand the recuitement behaviour of companies. In other words, to help me find a nice job ;D
 
 ## Files
 
