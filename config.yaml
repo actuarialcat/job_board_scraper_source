@@ -1,0 +1,39 @@
+# Config file for Scraper
+
+# Scraper config ----------------------------------------------------------
+
+max_num_of_files: 9
+
+start_page: 1
+end_page: 61        # 1 - 61 (check the website manually) 
+
+output_path: "../output/"
+pdf_output_path: "../output_pdf/"
+
+output_file_name: "job_list.csv"
+
+
+# login info --------------------------------------------------------------
+# use your own login, mine are hidden
+
+username: "--------"
+password: "--------"
+
+
+# URL for extraction ------------------------------------------------------
+
+login_url: "https://apps.saas.hku.hk/internship/"
+
+url_prefix: "https://apps.saas.hku.hk/internship/"
+url_jobno: "https://apps.saas.hku.hk/internship/ListDesc.php?jobno="
+url_page: "https://apps.saas.hku.hk/internship/index.php?a=jobhist&page="
+
+
+
+
+
+
+
+
+
+
